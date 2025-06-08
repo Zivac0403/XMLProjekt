@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<proizvodjaci>
+    <proizvodjac>
+        <ime>NVIDIA</ime>
+        <opis>NVIDIA je lider u razvoju grafičkih procesora za gaming, AI i profesionalne aplikacije.</opis>
+        <slika>nvidia.png</slika>
+    </proizvodjac>
+    <proizvodjac>
+        <ime>AMD</ime>
+        <opis>AMD proizvodi konkurentne grafičke kartice koje nude odlične performanse za nižu cijenu.</opis>
+        <slika>amd.png</slika>
+    </proizvodjac>
+    <proizvodjac>
+        <ime>Intel</ime>
+        <opis>Intel je nedavno ušao na GPU tržište s novom linijom ARC kartica.</opis>
+        <slika>intel.png</slika>
+    </proizvodjac>
+</proizvodjaci>

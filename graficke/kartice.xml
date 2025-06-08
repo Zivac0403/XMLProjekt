@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kartice>
+    <kartica>
+        <model>RTX 4090</model>
+        <proizvodjac>NVIDIA</proizvodjac>
+        <vram>24 GB</vram>
+        <cijena>1999</cijena>
+    </kartica>
+    <kartica>
+        <model>RX 7900 XTX</model>
+        <proizvodjac>AMD</proizvodjac>
+        <vram>24 GB</vram>
+        <cijena>999</cijena>
+    </kartica>
+    <kartica>
+        <model>RTX 4070</model>
+        <proizvodjac>NVIDIA</proizvodjac>
+        <vram>12 GB</vram>
+        <cijena>599</cijena>
+    </kartica>
+</kartice>
